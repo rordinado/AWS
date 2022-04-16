@@ -1,2 +1,1 @@
-test get quick start demo
 test get quick start demo version 007
